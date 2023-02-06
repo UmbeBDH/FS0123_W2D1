@@ -1,0 +1,24 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,600&family=Poppins:wght@100;200;300;400;600;700&family=Roboto:wght@400;700&display=swap');
+
+ body{
+margin-left: 8em;
+background-color: #415fe1;
+font-family: 'Roboto',sans-serif;
+
+ }
+
+#js {
+width: 100px; 
+height: 100px;
+
+
+}	
+
+h1, h2, p, ul, a{
+color: white;
+
+}
+
+a:hover {
+    color: black;
+
